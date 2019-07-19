@@ -22,7 +22,7 @@
             <meta-data android:name="com.github.shadowsocks.plugin.id"
                        android:value="goproxy"/>
             <meta-data android:name="com.github.shadowsocks.plugin.default_config"
-                       android:value="sps -S socks -T tcp -Z password"/>
+                       android:value="-S socks -T ws -h aes-256-cfb -j 123"/>
         </provider>
     </application>
 </manifest>
