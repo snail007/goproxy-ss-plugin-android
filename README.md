@@ -32,6 +32,6 @@
 ss客户端新建里面填写：  
 服务器IP：1.1.1.1  
 端口：8800  
-加密方法：aes-192-cfb  
+加密方法：aes-256-cfb  
 密码：123  
-插件配置参数：`-S socks -T ws -h aes-192-cfb -j 123`  
+插件配置参数：`-S socks -T ws -h aes-256-cfb -j 123`  
