@@ -1,2 +1,2 @@
 # goproxy-ss-plugin-android
-goproxy shadowsocks安卓插件
+ shadowsocks goproxy安卓插件
