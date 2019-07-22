@@ -36,14 +36,19 @@ ss客户端新建里面填写：
 密码：123  
 插件配置参数：`-S socks -T ws -h aes-256-cfb -j 123`  
 
+<img src="/doc/1.png" widht="300" height="600" > <img src="/doc/2.png" widht="300" height="600" >
+
+
 #### 使用了WS和CDN示例
 
 假设上级执行的命令是：`proxy socks -t ws -p :8800`  
 CDN域名是：test.com  
 ss客户端新建里面填写：  
 服务器IP：test.com  
-端口：8800  
+端口：80  
 加密方法：aes-256-cfb  
 密码：123  
 插件配置参数：`-S socks -T ws -h aes-256-cfb -j 123 -P test.com:80`   
+
+<img src="/doc/3.png" widht="300" height="600" > <img src="/doc/4.png" widht="300" height="600" >
 
