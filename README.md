@@ -36,9 +36,9 @@ ss客户端新建里面填写：
 密码：123  
 插件配置参数：`-S socks -T ws -h aes-256-cfb -j 123`  
 
-![img](/doc/1.png){:height="36px" width="36px"}
+[[/doc/1.png | width="300px"]]
 
-<img src="/doc/1.png" widht="300" >
+<img src="/doc/1.png" widht="300" height="600" >
 
 <img src="/doc/2.png" widht="300" >
 
