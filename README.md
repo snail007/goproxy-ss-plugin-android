@@ -36,9 +36,9 @@ ss客户端新建里面填写：
 密码：123  
 插件配置参数：`-S socks -T ws -h aes-256-cfb -j 123`  
 
-![img1](/doc/1.png =300x600)
+<img src="(/doc/1.png" widht="300px" >
 
-![img1](/doc/2.png | width=300)
+<img src="(/doc/2.png" widht="300px" >
 
 
 #### 使用了WS和CDN示例
@@ -52,7 +52,7 @@ ss客户端新建里面填写：
 密码：123  
 插件配置参数：`-S socks -T ws -h aes-256-cfb -j 123 -P test.com:80`   
 
-![img1](/doc/3.png | width=300)
+<img src="(/doc/3.png" widht="300px" >
 
-![img1](/doc/4.png | width=300)
+<img src="(/doc/4.png" widht="300px" >
 
