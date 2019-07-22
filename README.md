@@ -45,7 +45,7 @@ ss客户端新建里面填写：
 CDN域名是：test.com  
 ss客户端新建里面填写：  
 服务器IP：test.com  
-端口：8800  
+端口：80  
 加密方法：aes-256-cfb  
 密码：123  
 插件配置参数：`-S socks -T ws -h aes-256-cfb -j 123 -P test.com:80`   
