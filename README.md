@@ -18,7 +18,7 @@
 对比可以发现，使用了goproxy插件之后，实际上设备出去对流量都是goproxy控制的，也就是说可以使用goproxy的各种传输协议和服务了。
 
 #### 使用说明  
-1.安装[官方ss客户端](https://github.com/snail007/stuff/releases/tag/com.github.shadowsocks.App.apk)。  
+1.安装[官方ss客户端](https://github.com/snail007/goproxy-ss-plugin-android/releases)。  
 2.安装 ss-goproxy 插件， [点击下载](https://github.com/snail007/goproxy-ss-plugin-android/releases)或者[镜像下载](https://mirrors.host900.com/snail007/goproxy-ss-plugin-android)。  
 3.在官方客户端里面新建一个服务端，填写规范如下：  
 3.1 服务器IP、端口、加密方法、密码正常填写，需要注意的是加密方法要填写goproxy的sps支持的加密方法。  
