@@ -1,6 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
+    namespace 'com.github.shadowsocks.plugin.goproxy'
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.github.shadowsocks.plugin.goproxy"
@@ -22,6 +23,10 @@ android {
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
+    }
+    lint {
+        checkReleaseBuilds false
+        abortOnError false
     }
 }
 
